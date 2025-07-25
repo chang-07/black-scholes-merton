@@ -221,11 +221,6 @@ function App() {
     justifyContent: 'center'
   };
 
-  const settingsSectionStyle = {
-    marginBottom: '20px',
-    color: 'white'
-  };
-
   const toastStyle = {
     position: 'fixed',
     bottom: '20px',
